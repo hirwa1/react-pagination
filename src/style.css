@@ -1,3 +1,21 @@
-h1, p {
+h1,
+p {
   font-family: Lato;
+}
+span a {
+  width: 40px;
+  height: 32px;
+  border-radius: 1px;
+  opacity: 1;
+  border: 1px solid #edeff2;
+  text-color: #252f43ff;
+  backgroud: #fff;
+  font-size: 20px;
+  text-decoration: none;
+  padding: 20px;
+}
+.active {
+  background: #1188ff;
+  text-color: #252f43ff;
+  text-color: #fff;
 }
