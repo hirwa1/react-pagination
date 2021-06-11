@@ -1,3 +1,3 @@
-# react-k3s5jv
+# react-pagination
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-k3s5jv)
+[Pagination in React ⚡️]
